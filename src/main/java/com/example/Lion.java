@@ -31,4 +31,3 @@ public class Lion {
         return feline.getFood("Хищник");
     }
 }
-//add some text to do right instructions about committing my project. this text is insignificant for project containing.
